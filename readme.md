@@ -2,6 +2,8 @@
 
 Projeto simples de lista de tarefas (To-Do List) desenvolvido em HTML, CSS e JavaScript, utilizando manipulação do **DOM**, **Local Storage** para persistência dos dados e **eventos** para interação do usuário.
 
+![Lista de Tarefas](lista-tarefa.png)
+
 ## Funcionalidades
 
 -   Adicionar novas tarefas

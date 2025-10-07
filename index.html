@@ -4,6 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="/styles.css">
+    <script src="/index.js"></script>
     <title>Lista de Tarefas</title>
 </head>
 <body>
@@ -13,7 +14,7 @@
             <form id="create-todo-form">
                 <input 
                     type="text" 
-                    id="descriptin" 
+                    id="description" 
                     name="description"
                     class="input-description"
                     aria-label="Qual a tarefa deseja cadastrar ?" 
@@ -25,7 +26,7 @@
         <section class="todo-list-section">
             <ul id="todo-list"></ul>
         </section>
-        <footer>
+        <footer id="todo-footer">
             <button onclick="removeDoneTasks()" class="remove-done-tasks-btn">
                 Remover tarefas concluidas
             </button>
