@@ -4,6 +4,8 @@ Projeto simples de lista de tarefas (To-Do List) desenvolvido em HTML, CSS e Jav
 
 ![Lista de Tarefas](lista-tarefa.png)
 
+Você pode conferir o site online aqui:https://lista-de-tarefa-kleber.vercel.app/
+
 ## Funcionalidades
 
 -   Adicionar novas tarefas
